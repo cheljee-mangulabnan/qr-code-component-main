@@ -17,7 +17,7 @@ The project is a simple site using only HTML and CSS that displays a QR code lea
 
 ### Screenshot
 
-![](.images\screenshot.png)
+![Screenshot](images\screenshot.png)
 
 ### Links
 
