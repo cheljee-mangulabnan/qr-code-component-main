@@ -22,6 +22,7 @@ The project is a simple site using only HTML and CSS that displays a QR code lea
 ### Links
 
 - Solution URL: [GitHub Repository]([https://your-solution-url.com](https://github.com/cheljee-mangulabnan/qr-code-component-main/tree/main))
+- Live Preview: [https://qr-code-component-cm.netlify.app/](https://qr-code-component-cm.netlify.app/)
 
 ### Built with
 
